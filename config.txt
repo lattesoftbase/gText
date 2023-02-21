@@ -1,0 +1,22 @@
+White
+Black
+Black
+Consolas
+Calibri
+14
+------------------------------------------
+========== THIS IS CONFIG FILE ===========
+-----AFTER CHANGER RESTART THE PROGRAM----
+==========================================
+1. Background color
+2. Font color
+3. Cursor color
+4. Edit font
+5. UI font
+6. Font size
+--------------SUPPORTED FONTS-------------
+Arial
+Courier new
+Consolas
+Calibri
+
